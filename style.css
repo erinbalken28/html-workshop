@@ -1,0 +1,33 @@
+body {
+  background-color: #D5B0E7;
+  color: black;
+  padding: 5%;
+  font-family: 'Abril Fatface', cursive;
+}
+img {
+  width: 100%
+}
+main {
+  background-color: white;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+}
+section {
+  padding: 3% 5%;
+}
+
+h1{
+  margin: 0px;
+  border: 10px solid #DE3DB2;
+  text-align: center;
+}
+}
+h1, h2 {
+  text-align: center;
+
+
+}
